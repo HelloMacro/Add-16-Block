@@ -1,6 +1,5 @@
 // TITLE:- To add Block of data assuming the sum to be 16 bit.
-// NAME:- PRATHMESH NAVALE       BATCH:- B3
-// ROLL NO.:- 212075             PRN NO.:- 22420235               
+             
 
 ORG 0000H //start the program
 	SETB PSW.3 //select register bank 1
